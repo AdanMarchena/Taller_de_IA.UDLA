@@ -45,5 +45,5 @@ Cada entrega cuenta con su propio archivo de documentación interna. Para ver lo
 
 ### 👤 Autor
 
-*   **Estudiante:** \[Tu Nombre Completo\]
+*   **Estudiante:** Adán Marchena
 *   **Año:** 2026
